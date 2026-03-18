@@ -1,5 +1,5 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Foco](https://img.shields.io/badge/foco-Suporte%20N2-blue
+![Foco](https://img.shields.io/badge/foco-Suporte%20N2-blue)
 ## ⚙️ Tecnologias
 
 ### Backend
