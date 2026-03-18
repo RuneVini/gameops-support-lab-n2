@@ -1,11 +1,22 @@
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Foco](https://img.shields.io/badge/foco-Suporte%20N2-blue
+## ⚙️ Tecnologias
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+
+### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### Observabilidade
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-E8478B?logo=kibana&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
+### Ferramentas
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 # GameOps Support Lab — N2 (Logs, APIs & Incident Analysis)
 
 Simulação de um ambiente de backend de jogo online com foco em **suporte técnico N2**, análise de logs, investigação de incidentes e troubleshooting de APIs.
