@@ -124,7 +124,7 @@ GET /matchmaking
 * Retorno:
 
 ```
-500 - Matchmaking service unavailable
+500 - Serviço de matchmaking indisponível
 ```
 
 * Investigação:
@@ -145,7 +145,7 @@ POST /purchase
 * Retorno:
 
 ```
-504 - Payment timeout
+504 - Timeout esgotado
 ```
 
 * Investigação:
@@ -166,7 +166,7 @@ POST /login
 * Retorno:
 
 ```
-400 - Missing email
+400 - Preencha o e-mail
 ```
 
 * Investigação:
@@ -181,9 +181,9 @@ POST /login
 Exemplo:
 
 ```log
-ERROR matchmaking Matchmaking service unavailable
-ERROR store Payment timeout
-ERROR auth Invalid token
+ERROR matchmaking Serviço de matchmaking indisponível
+ERROR store Timeout esgotado
+ERROR auth Token inválido
 ```
 
 Atividades esperadas:
